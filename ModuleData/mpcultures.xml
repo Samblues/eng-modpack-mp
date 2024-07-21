@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BasicCultures>
+	<Culture
+		id="empire"
+		name="{=empirefaction}Rome And Athens"
+		is_main_culture="true"
+		default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000"
+		color="FF802463"
+		color2="FFF1C232"
+		cloth_alternative_color1="FFDE9953"
+		cloth_alternative_color2="FF4E3A55"
+		banner_background_color1="FF7739a7"
+		banner_foreground_color1="FFf1c232"
+		banner_background_color2="FFf1c232"
+		banner_foreground_color2="FF7739a7"
+		faction_banner_key="11.4.124.4345.4345.764.764.1.0.0.163.0.5.512.512.764.764.1.0.0" />
+	<Culture
+		id="aserai"
+		name="{=aseraifaction}The Turks"
+		is_main_culture="true"
+		default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000"
+		color="F4F4F4F4"
+		color2="FF8D291A"
+		cloth_alternative_color1="ff830808"
+		cloth_alternative_color2="FF4A100C"
+		banner_background_color1="F4F4F4F4"
+		banner_foreground_color1="F4F4F4F4"
+		banner_background_color2="ff830808"
+		banner_foreground_color2="F4F4F4F4"
+		faction_banner_key="11.45.122.4345.4345.764.764.1.0.0.428.143.116.512.512.764.764.1.0.-90" />
+	<Culture
+		id="sturgia"
+		name="{=PjO7oY16}France"
+		is_main_culture="true"
+		default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000"
+		color="FF2A5599"
+		color2="FFD9D9D9"
+		cloth_alternative_color1="FF949CCC"
+		cloth_alternative_color2="FF1C2A50"
+		banner_background_color1="FF3A6298"
+		banner_foreground_color1="FFd9d9d9"
+		banner_background_color2="FFd9d9d9"
+		banner_foreground_color2="FF3A6298"
+		faction_banner_key="11.116.12.1836.1836.764.764.1.0.0.424.121.12.231.200.764.863.1.1.0.424.121.12.231.200.934.664.1.1.0.424.121.12.231.200.594.664.1.1.0" />
+	<Culture
+		id="vlandia"
+		name="{=FjwRsf1C}England"
+		is_main_culture="true"
+		default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000"
+		color="FF8D291A"
+		color2="FFF4CA14"
+		cloth_alternative_color1="FFA88220"
+		cloth_alternative_color2="FF4A100C"
+		banner_background_color1="ff830808"
+		banner_foreground_color1="FFf4ca14"
+		banner_background_color2="FFf4ca14"
+		banner_foreground_color2="ff830808"
+		faction_banner_key="11.145.116.1454.2088.764.770.1.0.0.141.7.116.392.376.767.905.1.0.0.141.7.116.389.376.761.578.1.0.0.141.7.116.389.376.763.740.1.0.0" />
+	<Culture
+		id="battania"
+		name="{=0B27RrYJ}Crusaders"
+		is_main_culture="true"
+		default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000"
+		color="F4F4F4F4"
+		color2="FFF4CA14"
+		cloth_alternative_color1="F4F4F4F4"
+		cloth_alternative_color2="FF4A100C"
+		banner_background_color1="F4F4F4F4"
+		banner_foreground_color1="FFf4ca14"
+		banner_background_color2="F4F4F4F4"
+		banner_foreground_color2="F4F4F4F4"
+		faction_banner_key="11.45.122.4345.4345.764.764.1.0.0.419.84.1.512.512.764.764.1.0.0.419.84.1.126.126.636.887.1.0.0.419.84.1.126.126.634.632.1.0.0.419.84.1.126.126.899.634.1.0.0.419.84.1.126.126.897.895.1.0.0" />
+	<Culture
+		id="khuzait"
+		name="{=sZLd6VHi}Sparta, Brittons and Carthage"
+		is_main_culture="true"
+		default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000"
+		color="FF418174"
+		color2="FFFFE9D4"
+		cloth_alternative_color1="FFCCBB89"
+		cloth_alternative_color2="FF58888B"
+		banner_background_color1="FF5AA4AD"
+		banner_foreground_color1="FFFFE9D4"
+		banner_background_color2="FFFFE9D4"
+		banner_foreground_color2="FF5AA4AD"
+		faction_banner_key="11.45.125.1536.1536.764.764.1.0.0.461.11.11.512.512.764.764.1.0.0" />
+	<Culture
+		id="looters"
+		name="{=1sbJQR4H}Looters"
+		default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000" />
+	<Culture
+		id="neutral_culture"
+		name="{=3PzgpFGq}Neutral"
+		default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000" />
+</BasicCultures>

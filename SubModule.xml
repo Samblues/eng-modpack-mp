@@ -1,0 +1,52 @@
+<Module>
+	<Name value="ENG ModPackMP" />
+	<Id value="ENG ModPackMP" />
+	<Version value="v1.1.1.5" />
+	<DefaultModule value="false" />
+	<ModuleCategory value="Multiplayer" />
+	<Official value="false" />
+	<SubModules>
+	</SubModules>
+	<Xmls>
+		<XmlNode>
+			<XmlName id="MPCharacters" path="mpcharacters" />
+			<IncludedGameTypes>
+				<GameType value="MultiplayerGame" />
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName id="MPClassDivisions" path="mpclassdivisions" />
+			<IncludedGameTypes>
+				<GameType value="MultiplayerGame" />
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName id="BasicCultures" path="mpcultures" />
+			<IncludedGameTypes>
+				<GameType value="MultiplayerGame" />
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName id="Items" path="mpitems" />
+			<GameType value="MultiplayerGame" />
+		</XmlNode>
+		<XmlNode>
+			<XmlName id="GameText" path="multiplayer_strings" />
+			<IncludedGameTypes>
+				<GameType value="MultiplayerGame" />
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName id="WeaponDescriptions" path="weapon_descriptions" />
+		</XmlNode>
+		<XmlNode>
+			<XmlName id="CraftingPieces" path="crafting_pieces" />
+			<IncludedGameTypes>
+				<GameType value="MultiplayerGame" />
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName id="CraftingTemplates" path="crafting_templates" />
+		</XmlNode>
+	</Xmls>
+</Module>
